@@ -1,5 +1,5 @@
 ⏱️ Simple Stopwatch with Dark Mode  
-This is a sleek and interactive stopwatch web app built using HTML, CSS, and JavaScript as part of **Task 2** for the **Prodigy Infotech Web Development Internship**.
+This is a sleek and interactive stopwatch web app built using HTML, CSS, and JavaScript as part of **Task 2** for the [Prodigy Infotech Web Development Internship](https://prodigyinfotech.dev/).
 
 ---
 
